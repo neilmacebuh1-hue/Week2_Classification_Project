@@ -1,4 +1,4 @@
-# DecodeLabs Week 2 - Basic Classification Model
+# Basic Classification Model
 
 ## Project Overview
 
